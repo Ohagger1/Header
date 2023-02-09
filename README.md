@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oliver</h1>
 <h3 align="center">PhD researcher from UCL, London</h3>
 
-<p align="left"> <a href="https://twitter.com/olliechem" target="blank"><img src="https://img.shields.io/twitter/follow/olliechem?logo=twitter&style=for-the-badge" alt="olliechem" /></a> </p>
+<p align="left"> <a href="https://twitter.com/olliechem" target="blank"><img src="https://img.shields.io/twitter/follow/olliechem?logo=twitter&style=for-the-badge" alt="olliechem" /></a></p>
 
 - 🔭 I’m currently working on [a Covid data project](https://github.com/Ohagger1/Coviddata)
 
