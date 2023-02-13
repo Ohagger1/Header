@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [a Covid data project](https://github.com/Ohagger1/Coviddata)
 
-- 🌱 I’m currently learning **Google analytics course**
+- 🌱 I’m currently learning **Google analytics course **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ohagger1](https://github.com/Ohagger1)
 
