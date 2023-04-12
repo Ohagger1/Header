@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [Data analysis for my portfolio](https://www.oliverhagger.com/data-analytics/)
 
-- 🌱 I’m currently learning how to use ChatGPT's API
+- 🌱 I’m currently learning how to use [ChatGPT's API](https://openai.com/blog/introducing-chatgpt-and-whisper-apis)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ohagger1](https://github.com/Ohagger1)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Ohagger1)
 
 - 📫 How to reach me **ohagger@icloud.com**
 
-- 📄 Know about my experiences [https://github.com/Ohagger1/oliverhagger.github.io/blob/master/files/Oliver%20Hagger%20CV.pdf](https://github.com/Ohagger1/oliverhagger.github.io/blob/master/files/Oliver%20Hagger%20CV.pdf)
+- 📄 Know about my experiences [CV](https://github.com/Ohagger1/oliverhagger.github.io/blob/master/files/Oliver%20Hagger%20CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
