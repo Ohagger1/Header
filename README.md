@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Data analysis for my portfolio](https://www.oliverhagger.com/data-analytics/)
 
-- 🌱 I’m currently learning **Google analytics course **
+- 🌱 I’m currently learning how to use ChatGPT's API
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ohagger1](https://github.com/Ohagger1)
 
