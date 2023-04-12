@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ohagger@icloud.com**
 
-- 📄 Know about my experiences [CV](https://github.com/Ohagger1/oliverhagger.github.io/blob/master/files/Oliver%20Hagger%20CV.pdf)
+- 📄 Know about my experiences [CV](https://www.oliverhagger.com/files/Oliver_Hagger_CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
