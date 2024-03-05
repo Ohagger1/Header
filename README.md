@@ -3,10 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/olliechem" target="blank"><img src="https://img.shields.io/twitter/follow/olliechem?logo=twitter&style=for-the-badge" alt="olliechem" /></a></p>
 
-- 🔭 I’m currently working on [Data analysis for my portfolio](https://www.oliverhagger.com/data-analytics/)
-
-- 🌱 I’m currently learning how to use [ChatGPT's API](https://openai.com/blog/introducing-chatgpt-and-whisper-apis)
-
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Ohagger1)
 
 - 📫 How to reach me **ohagger@icloud.com**
